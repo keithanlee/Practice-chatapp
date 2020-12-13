@@ -334,7 +334,6 @@ p {
 
     .container-flex {
         height: auto;
-        align-items: flex-start;
         position: relative;
     }
 
